@@ -1,0 +1,10 @@
+.showColors tr:nth-child(odd) {
+  background-color: #555;
+}
+.showColors tr:nth-child(even) {
+  background-color: #333;
+}
+
+.pointer {
+  cursor: pointer;
+}
